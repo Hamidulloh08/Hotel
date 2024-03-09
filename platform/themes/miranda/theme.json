@@ -1,0 +1,8 @@
+{
+    "name": "Fotih Hotel",
+    "namespace": "Theme\\Miranda\\",
+    "description": "Hotel and Resort Booking system",
+    "author": "Botble Technologies",
+    "version": "1.11",
+    "required_plugins": []
+}
